@@ -21,5 +21,8 @@
     <ClCompile Include="platinum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="assignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
